@@ -7,5 +7,5 @@ public class GitTest {
 		System.out.println("My Git Demo");
 		
 		
-	}
+}
 }
